@@ -1,5 +1,4 @@
 # Certificates
-- 1.Sololearn
-- 2.NDG Linux
-- 3.First add on Github
-- 4.Getting started with git
+- Sololearn Certificate for Basics of C Programming.
+- Cisco NDG to Understand Linux OS and Command Line Interface.
+- Github Learning to understand the github usage.
