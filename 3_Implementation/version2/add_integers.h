@@ -1,0 +1,26 @@
+
+
+#ifndef _ADD_INTEGER_H_
+#define _ADD_INTEGER_H_
+
+#include <stdio.h>
+#include <limits.h>
+
+typedef enum add
+{
+    SUCCESS,
+    OVERFLOW,
+    UNDERFLOW
+}add;
+
+/**
+ * @brief Function to add 2 integer numbers
+ * 
+ * @param param1[in] Operand 1 to be added
+ * @param param2[in] Operand 2 to be added
+ * @param result[out] Result of add operation if success
+ * @return funtion_status_t Result of the function execution
+ */
+add add_integers(int param1, int param2, int* result);
+
+#endif  /* _ADD_INTEGER_H_ */
