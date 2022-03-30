@@ -29,14 +29,14 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
+`2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+`4_TestPlanAndOutput`| Documents with test plans and procedures
+`5_ImagesandVideo`| All output screenshot and output video
 
 
 ## Challenges Faced and How Was It Overcome
 
-1. During cpp-check, online resources helped a lot. 
-2. as most of the functions used contains othes function calls in them and required user input so unit test couldnt properly done in most of the functions.
-3. while running the multiple files. Make file helped a lot to resolve this.
-4. over all stack overflow helped a lot in resolving issues during this project.
+1. Over all stack overflow helped a lot in resolving issues during this project.
+2. While running the multiple files. Make file helped a lot to resolve this.
+3. During cpp-check, online resources helped a lot. 
