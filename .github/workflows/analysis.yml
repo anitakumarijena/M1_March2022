@@ -1,5 +1,4 @@
-name: Build CI - Linux
-
+name: Analysis
 on:
   push:
     branches: [ main ]
