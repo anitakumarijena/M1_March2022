@@ -1,4 +1,4 @@
-name: Build CI -Linux
+name: Build CI - Linux
 
 on:
   push:
@@ -13,7 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install
-      run: sudo apt-get install cppcheck
-    - name: analyse
-      run: cppcheck --enable=all 3_Implementation
+    - name: Build
+      run: make -C 3_Implementation/version2
