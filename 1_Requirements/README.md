@@ -39,17 +39,20 @@ The only difference is that we can edit the password within the application. You
 
 * Users can use this code to enhance their c knowledge.
 
+## SWOT ANALYSIS
+![image](https://github.com/anitakumarijena/M1_March2022/blob/main/1_Requirements/SWOT.png)
+
 # Detail requirements
 ## High Level Requirements:
 
 | ID | Description | Status (Implemented)
 |:---:|:---:|:---:|
-|HLR-1| User shall be able to move to cover page and index page. |Implemented|
+|HLR-1| It’s easy to operate and understand by users. |Implemented|
 |HLR-2| User can add their daily details safely and it’s not time consuming. |Implemented|
 |HLR-3| There’s maximum privacy to the recorded files. |Implemented|
 |HLR-4| System makes easy to store daily records. |Implemented|
 |HLR-5|  built as a console application without using any graphics features. |Implemented|
-|HLR-6| It’s easy to operate and understand by users. |Implemented|
+
 
 
 ##  Low level Requirements:
