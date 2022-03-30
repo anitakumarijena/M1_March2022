@@ -40,7 +40,7 @@ The only difference is that we can edit the password within the application. You
 * Users can use this code to enhance their c knowledge.
 
 ## SWOT ANALYSIS
-![image](https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/SWOT%20analysis.png)
+![image](https://github.com/anitakumarijena/M1_March2022/blob/main/1_Requirements/SWOT.png)
 
 # Detail requirements
 ## High Level Requirements:
