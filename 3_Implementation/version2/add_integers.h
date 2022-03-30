@@ -6,12 +6,12 @@
 #include <stdio.h>
 #include <limits.h>
 
-typedef enum add
+typedef enum funtion_status_t
 {
     SUCCESS,
     OVERFLOW,
     UNDERFLOW
-}add;
+}funtion_status_t;
 
 /**
  * @brief Function to add 2 integer numbers
@@ -21,6 +21,6 @@ typedef enum add
  * @param result[out] Result of add operation if success
  * @return funtion_status_t Result of the function execution
  */
-add add_integers(int param1, int param2, int* result);
+funtion_status_t add_integers(int param1, int param2, int* result);
 
 #endif  /* _ADD_INTEGER_H_ */

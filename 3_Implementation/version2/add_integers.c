@@ -1,8 +1,8 @@
 #include "add_integer.h"
 
-add add_integers(int param1, int param2, int* result)
+funtion_status_t add_integers(int a, int b, int* result)
 {
-    long int sum = param1 + param2;
+    long int sum = a + b;
 
     if(sum > INT_MAX)
         return OVERFLOW;
