@@ -22,7 +22,7 @@ In this project, you need to enter a password to view, edit or delete record. Pa
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/anitakumarijena/M1_March2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/anitakumarijena/M1_March2022/actions/workflows/cppcheck.yml)  | [![Analysis](https://github.com/anitakumarijena/M1_March2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/anitakumarijena/M1_March2022/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml)
+[![Build CI -Linux](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml) | ![Codacy Badge](https://api.codiga.io/project/32249/status/svg)![Codiga](https://api.codiga.io/project/32077/score/svg)| [![Unity - Unit Testing](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml)
 
 ----
 ## Folder Structure
@@ -31,12 +31,12 @@ Folder             | Description
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+`4_TestPlanAndOutput`| Documents with test plans and procedures
+`5_ImagesandVideo`| All output screenshot and output video
 
 
 ## Challenges Faced and How Was It Overcome
 
-1. During cpp-check, online resources helped a lot. 
-2. as most of the functions used contains othes function calls in them and required user input so unit test couldnt properly done in most of the functions.
-3. while running the multiple files. Make file helped a lot to resolve this.
-4. over all stack overflow helped a lot in resolving issues during this project.
+1. Over all stack overflow helped a lot in resolving issues during this project.
+2. While running the multiple files. Make file helped a lot to resolve this.
+3. During cpp-check, online resources helped a lot. 
