@@ -18,7 +18,7 @@ The basic user-defined functions used in this project are listed below:
 In this project, you need to enter a password to view, edit or delete record. Password is not required to view the main menu or to add record.You can edit the password within the application i.e., after executing or upon running the project.Currently the password is  ‘Enter’ for this mini project. Don’t type e-n-t-e-r. Press the Enter key!
 
 
-# SDLC Activity Based Learning
+## SDLC Activity Based Learning
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
