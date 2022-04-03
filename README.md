@@ -22,7 +22,7 @@ In this project, you need to enter a password to view, edit or delete record. Pa
 
 Build | Code Quality | Unity |
 ------|----------|-------|
-[![Build CI - Linux](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/c-cpp.yml) | ![Codacy Badge](https://api.codiga.io/project/32249/status/svg)![Codiga](https://api.codiga.io/project/32077/score/svg)| [![Unit Testing - Unity](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml)|
+[![Build CI - Linux](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/c-cpp.yml) |![Codacy Badge](https://api.codiga.io/project/32249/status/svg) ![Codiga](https://api.codiga.io/project/32077/score/svg)| [![Unit Testing - Unity](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml)|
 ----
 ## Folder Structure
 Folder             | Description
