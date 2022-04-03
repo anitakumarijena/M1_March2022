@@ -19,4 +19,4 @@
 ## Output
 
 ### Main page of the software
-<img src="https://github.com/anitakumarijena/M1_March2022/blob/main/2_Architecture/Behaviour%20diagram/main%20function.PNG" width="1020" height="620">
+<img src="https://github.com/anitakumarijena/M1_Protected_Personal_Diary/blob/main/5_ImagesAndVideos/main%20function.PNG" width="1020" height="620">
