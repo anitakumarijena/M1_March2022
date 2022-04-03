@@ -20,10 +20,9 @@ In this project, you need to enter a password to view, edit or delete record. Pa
 
 ## SDLC Activity Based Learning
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![Build CI -Linux](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml) | ![Codacy Badge](https://api.codiga.io/project/32249/status/svg)![Codiga](https://api.codiga.io/project/32077/score/svg)| [![Unity - Unit Testing](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/debasish2110/LTTS-C-MiniProject/actions/workflows/gitinspector.yml)
-
+Build | Code Quality | Unity |
+------|----------|-------|
+[![Build CI -Linux](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/analysis.yml) | ![Codacy Badge](https://api.codiga.io/project/32249/status/svg)![Codiga](https://api.codiga.io/project/32077/score/svg)| [![Unit Testing - Unity](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml/badge.svg)](https://github.com/anitakumarijena/M1_Protected_Personal_Diary/actions/workflows/unity.yml)|
 ----
 ## Folder Structure
 Folder             | Description
