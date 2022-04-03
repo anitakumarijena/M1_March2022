@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       | Is user able to get into the function of their desired choices | 0 | cover page | coverpage | Requirement based |
+|  H_01       | Is user able to get into the function of their desired choices | 0 | Main display | Main display | Requirement based |
 |  H_02       | Is the user able to get into the index page | 1 | index page contents | index page contents | Requirement based |
 |  H_03       | Is the user able to run the given sample codes | y | expected output | expected output | Scenario Based |
 |  H_04       | Is the user data is protected | cover page | password page | password page | Scenario Based |      
