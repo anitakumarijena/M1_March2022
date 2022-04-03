@@ -1,6 +1,6 @@
 # Password protected personal diary 📖
 
-Personal Diary Management System is a console application without graphics. In this project, user can keep their personal record like they do in a diary. You can keep records of the important things you do in your daily life, like meetings and various other tasks. Each Section contain high security so there is no chance of data loss.It is compiled in Code::Blocks IDE using GCC compiler. It is complete and totally error-free.
+Personal Diary Management System is a console application . In this project, user can keep their personal record like they do in a diary. Keep  their records of the important things in your daily life, like meetings and various other tasks. Each Section contain high security so there is no chance of data loss.It is compiled in Code::Blocks IDE using GCC compiler. It is complete and totally error-free.
 
 ## About Personal Diary Management System:
 
